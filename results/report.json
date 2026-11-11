@@ -1,0 +1,27 @@
+{
+  "documents": 101,
+  "summarized": 1,
+  "runs_by_job": [
+    {
+      "_id": "22785291",
+      "books": 1
+    }
+  ],
+  "genres": [
+    {
+      "_id": "science fiction",
+      "books": 1
+    }
+  ],
+  "last_summarized": [
+    {
+      "_id": "pg1013.txt",
+      "author": "H. G. Wells",
+      "title": "The First Men in the Moon",
+      "llm_analysis": {
+        "summary": "Mr. Cavor discovers a substance that makes objects invisible to gravity, leading him to create a sphere that allows humans to travel to the moon.",
+        "genre": "science fiction"
+      }
+    }
+  ]
+}
